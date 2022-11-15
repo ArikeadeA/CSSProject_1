@@ -20,6 +20,14 @@ h2{
     color: rgb(89, 217, 236);
 }
 
+.o-list{
+    color: rgb(9, 242, 207);
+}
+
+.u-list{
+    color: rgb(229, 244, 67);
+}
+
 #likes-list{
     font-size: 17px;
     color: rgb(77, 4, 77);
